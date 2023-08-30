@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Todp3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorOnPrimary">@color/appBar_color</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondary">@color/appBar_color</item>
+    </style>
+
+
+    <style name="Theme.Todp3" parent="Base.Theme.Todp3" />
+</resources>
